@@ -65,7 +65,8 @@ This project is part of the graduation project for the "Programming Fundamentals
 Feel free to submit issues or pull requests if you have any improvements or fixes. Contributions are welcome!
 
 ## Screenshot
-![](Screenshot 2024.jpg)
+
+![Screenshot 2024.jpg](https://github.com/Hossam-Ahmed-ELSharabasy/Expense-Tracker/blob/main/Screenshot%202024.jpg)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
