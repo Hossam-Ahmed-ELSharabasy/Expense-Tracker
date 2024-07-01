@@ -1,7 +1,5 @@
 # Expense-Tracker
 
-# Expenses Tracker
-
 <img src="https://img.shields.io/badge/Made_With-Python-blue" width="150px" alt="Made with Python" />
 
 A simple Expenses Tracker application built using Python and Tkinter to help you manage and keep track of your daily expenses.
